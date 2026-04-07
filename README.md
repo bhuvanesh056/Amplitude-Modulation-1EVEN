@@ -99,7 +99,7 @@ MODEL GRAPH
 
  
  
-
+ 
 
 RESULT:
 Thus the amplitude modulation and demodulation is experimentally done and the output is verified.
